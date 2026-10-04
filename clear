@@ -1,0 +1,29 @@
+[33mcommit 9b762a7457ac82ca4ad4236143c3b92106d919f3[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: 김주현 <juu724K@gmail.com>
+Date:   Sun Oct 4 17:33:00 2026 +0900
+
+    make main.py
+
+[33mcommit 84a02f17179742f79aca3c59c4dc219a44075c63[m
+Author: 김주현 <juu724K@gmail.com>
+Date:   Thu Sep 24 18:29:47 2026 +0900
+
+    Fourth commit: modify bye.txt
+
+[33mcommit 0895441597f49fdfb783520efb35e1a8f32dcdef[m
+Author: 김주현 <juu724K@gmail.com>
+Date:   Thu Sep 24 18:28:05 2026 +0900
+
+    Third commit: create bye.txt
+
+[33mcommit 6f7d9ccb3c858c52db93d14a17b682222c642905[m
+Author: 김주현 <juu724K@gmail.com>
+Date:   Thu Sep 24 18:27:19 2026 +0900
+
+    Second commit: modify hello.txt
+
+[33mcommit b43e858d7b66925794815be06297efc5bad9a990[m
+Author: 김주현 <juu724K@gmail.com>
+Date:   Thu Sep 24 18:26:03 2026 +0900
+
+    First commit: create hello.txt
